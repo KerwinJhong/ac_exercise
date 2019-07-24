@@ -160,7 +160,7 @@
     })
 
     //============= 12. 頁數按鈕 =============
-    pagination.addEventListener('click', event => {
+    pagination.addEventListener('click', (event) => {
         pageNum = (event.target.dataset.page)
         if (event.target.tagName === 'A') {
             getPageData(event.target.dataset.page)
