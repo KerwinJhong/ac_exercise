@@ -1,0 +1,23 @@
+{
+  "name": "movie-list-unit-test-ellen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellenlee-ac/movie-list-unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellenlee-ac/movie-list-unit-test/issues"
+  },
+  "homepage": "https://github.com/ellenlee-ac/movie-list-unit-test#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
